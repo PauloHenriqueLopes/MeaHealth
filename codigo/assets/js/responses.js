@@ -18,28 +18,28 @@ function getBotResponse(input) {
     switch (input) {
         case '1':
             setTimeout(() => {
-                window.open("https://mea-health.vercel.app/pages/receitas_personalizadas.html", "_blank");
+                window.open("https://mea-health.vercel.app/pages/receitas_personalizadas.html");
             }, 2000); 
             return "Redirecionando para receitas saudáveis...";
         case '2':
             setTimeout(() => {
-                window.open("https://mea-health.vercel.app/pages/localizacao_resturantes.html", "_blank");
+                window.open("https://mea-health.vercel.app/pages/localizacao_resturantes.html");
             }, 2000); 
             return "Redirecionando para restaurantes saudáveis em BH...";
         case '3':
             setTimeout(() => {
-                window.open("https://mea-health.vercel.app/pages/localizacao_academias.html", "_blank");
+                window.open("https://mea-health.vercel.app/pages/localizacao_academias.html");
             }, 2000); 
             return "Redirecionando para academias em BH...";
 
         case '4':
             setTimeout(() => {
-                window.open("https://mea-health.vercel.app/pages/dicas.html", "_blank");
+                window.open("https://mea-health.vercel.app/pages/dicas.html");
             }, 2000); 
             return "Redirecionando para dicas saudáveis...";        
             case '5':
                 setTimeout(() => {
-                    window.open("https://mea-health.vercel.app/pages/treinos.html", "_blank");
+                    window.open("https://mea-health.vercel.app/pages/treinos.html");
                 }, 2000); 
                 return "Redirecionando para Treinos...";
 
