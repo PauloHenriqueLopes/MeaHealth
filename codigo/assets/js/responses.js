@@ -17,9 +17,10 @@ function getBotResponse(input) {
 
     switch (input) {
         case '1':
-            awaitingObjectiveChoice = true;
-            return "Defina o seu objetivo: <br>1 - Emagrecer <br>2 - Ganhar massa";
-
+            setTimeout(() => {
+                window.open("https://mea-health.vercel.app/pages/receitas_personalizadas.html", "_blank");
+            }, 2000); 
+            return "Redirecionando para receitas saudáveis...";
         case '2':
             setTimeout(() => {
                 window.open("https://mea-health.vercel.app/pages/localizacao_resturantes.html", "_blank");
