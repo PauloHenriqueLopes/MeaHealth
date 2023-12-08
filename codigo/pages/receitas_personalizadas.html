@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/codigo/assets/css/stylereceitas.css" />
+    <link rel="stylesheet" href="/codigo/assets/css/styleprogresso.css" />
+    <title>Receitas</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="../index.html"
+              ><img src="/codigo/assets/images/logo_remove_bg_2.png" alt="Logo"
+            /></a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="../index.html"
+                    >Home</a
+                  >
+                </li>
+                <li class="nav-item dropdown">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    role="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                  >
+                    Categorias
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="/codigo/pages/receitas_personalizadas.html"
+                        >Receitas Saudáveis</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="/codigo/pages/progresso.html"
+                        >Progresso</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="/codigo/pages/localizacao_resturantes.html"
+                        >Restaurantes</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="/codigo/pages/localizacao_academias.html"
+                        >Academias</a
+                      >
+                    </li>
+                    <li><a class="dropdown-item" href="/codigo/pages/rotina.html">Rotina</a></li>
+                    <li>
+                      <a class="dropdown-item" href="/codigo/pages/dicas.html"
+                        >Dicas</a
+                      >
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="/codigo/pages/treinos.html"
+                        >Treinos</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+              <div class="menu-right">
+                <div class="login">
+                  <ul>
+                    <li><a href="/codigo/pages/login.html">Login</a></li>
+                  </ul>
+                </div>
+                <div class="icon">
+                  <a href="#">
+                    <ion-icon name="person-circle-outline"></ion-icon>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </header>
+      <!--Conteúdo-->
+      <div class="container mt-5">
+        <div class="row justify-content-center bg-light rounded-3">
+          <div class="col-12 col-sm-10">
+            <h3 class="text-center mb-4 mt-3 border-bottom border-success">Receitas Saudáveis</h3>
+            <div class="perfis" id="perfis"></div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="modal fade"
+        id="exampleModal"
+        tabindex="-1"
+        aria-labelledby="exampleModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Mea Health</h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body" id="ingredientesConteudo"></div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="container-fluid bg-light mt-5">
+        <div class="row">
+          <div class="col-12">
+            <p class="text-center mt-4">
+              © Mea Health 2023 todos os direitos reservados
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="/codigo/assets/js/receita.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+  </body>
+</html>

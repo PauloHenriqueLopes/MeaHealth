@@ -1,0 +1,337 @@
+{
+  "avaliacoes": [
+    {
+      "Name": "Academia Pratique Fitness Sagrada Família",
+      "Adress": "Rua Conselheiro Lafaiete, 1416, Sagrada Família",
+      "Rating": 4.8
+    },
+    {
+      "Name": "Academia Pratique Fitness Santa Efigênia",
+      "Adress": "Avenida Mem de Sá, 271, Santa Efigênia",
+      "Rating": 4.8
+    },
+    {
+      "Name": "Academia Life",
+      "Adress": "Rua Conselheiro Lafaiete, 1045, Sagrada Família",
+      "Rating": 4.4
+    },
+    {
+      "Name": "Top Fitness",
+      "Adress": "Rua dos Inconfidentes, 789, Funcionários",
+      "Rating": 4.6
+    },
+    {
+      "Name": "Smart Fit Amazonas ",
+      "Adress": "Avenida Amazonas, 303, Centro",
+      "Rating": 4.3
+    },
+    {
+      "Name": "Academia Forma Física",
+      "Adress": "R São Luiz, 520, Sagrada Família",
+      "Rating": 4.5
+    },
+    {
+      "Name": "StationFit Academia",
+      "Adress": "Avenida Amazonas, 687,Sobreloja Centro",
+      "Rating": 4.5
+    },{
+      "Name": "D2 Fit",
+      "Adress": "Rua da Bahia, 1047, Centro",
+      "Rating": 4.6
+    },
+    {
+      "Name": "Água Viva",
+      "Adress": "Rua Alabastro, 345, Sagrada Família",
+      "Rating": 4.2
+    },
+    {
+      "Name": "Academia Pratique Fitness Floresta",
+      "Adress": "Avenida Flávio dos Santos, 325, Floresta",
+      "Rating": 4.8
+    },
+    {
+      "Name": "ÚNICA GYM",
+      "Adress": "Avenida Brasil, 529, Santa Efigênia",
+      "Rating": 4.4
+    },
+    {
+      "Name": "ProFit Academia",
+      "Adress": "Rua Curitiba, 786, Centro",
+      "Rating": 4.5
+    },
+    {
+      "Name": "Podium Academia",
+      "Adress": "Rua João Camelo, 100, Boa Vista",
+      "Rating": 4.7
+    },
+    {
+      "Name": "Deck Academia",
+      "Adress": "Rua Dores do Indaiá, 246, Santa Tereza",
+      "Rating": 4.6
+    },{
+      "Name": "Academia RW Fitness",
+      "Adress": "Rua Rio de Janeiro, 960, Centro",
+      "Rating": 4.5
+    },
+    {
+      "Name": "Academia Omnia",
+      "Adress": "Rua Padre Rolim, 680, Santa Efigênia",
+      "Rating": 4.3
+    },
+    {
+      "Name": "Academia DTOX Santa Tereza",
+      "Adress": "Rua Hermílio Alves, 85, Santa Tereza",
+      "Rating": 4.4
+    },{
+      "Name": "Academia Pratique Fitness Cidade Nova",
+      "Adress": "Rua Dr. Júlio Otaviano Ferreira, 151, Cidade Nova",
+      "Rating": 4.7
+    },{
+      "Name": "Academia Equilíbrio",
+      "Adress": "Rua Cardeal Stepinac, 316, Cidade Nova",
+      "Rating": 4.9
+    },
+    {
+      "Name": "Academia Pratique Fitness Nova Floresta",
+      "Adress": "Rua Mossoró, 140, Nova Floresta",
+      "Rating": 4.9
+    },
+    {
+      "Name": "Academia Smart Fit Horto",
+      "Adress": "Avenida Silviano Brandão, 2419, Horto",
+      "Rating": 4.3
+    },
+    {
+      "Name": "CrossFit BH Academia",
+      "Adress": "Rua da Bahia, 1605, Lourdes",
+      "Rating": 4.7
+    },
+    {
+      "Name": "PL Fit Academia",
+      "Adress": "Rua Serpentina, 54, Carlos Prates",
+      "Rating": 4.7
+    },
+    {
+      "Name": "Academia Fonte de Energia",
+      "Adress": "Rua Begônia, 547, Esplanada",
+      "Rating": 4.7
+    },
+    {
+      "Name": "Club Fitness Academia",
+      "Adress": "Rua Ilacir Pereira Lima, 735, Silveira",
+      "Rating": 4.7
+    },
+    {
+      "Name": "Academia Body Energy Boa Vista",
+      "Adress": "Avenida. Elísio de Brito, 464, Boa Vista",
+      "Rating": 4.3
+    },
+    {
+      "Name": "Academia Pulsar Saúde",
+      "Adress": "Rua Miosótis, 266, Santo Andre",
+      "Rating": 4.9
+    },
+    {
+      "Name": "IronGym Academia",
+      "Adress": "Avenida Augusto de Lima, 555, Centro",
+      "Rating": 4.9
+    },
+    {
+      "Name": "Academia Pratique Fitness Funcionários",
+      "Adress": "Avenida Carandaí, 41, Funcionários",
+      "Rating": 4.7
+    },
+    {
+      "Name": "Academia Pratique Fitness Prado",
+      "Adress": "Avenida Francisco Sá, 197, Prado",
+      "Rating": 4.8
+    },
+    {
+      "Name": "Academia Spaco fitness Nova Vista",
+      "Adress": "Rua Pôrto Seguro, 511, Nova Vista",
+      "Rating": 4.9
+    },
+    {
+      "Name": "Academia DK FIT",
+      "Adress": "Rua Capitolio, 467, Santo Andre",
+      "Rating": 4.5
+    },
+    {
+      "Name": "Academia do PIC",
+      "Adress": "Rua Cláudio Manoel, 1185, Funcionários",
+      "Rating": 4.7
+    },
+    {
+      "Name": "Tribheca",
+      "Adress": "Rua Jacuí, 505, Floresta",
+      "Rating": 4.4
+    },
+    {
+      "Name": "Academia Smart Fit Rio de Janeiro",
+      "Adress": "Rua Rio de Janeiro, 1893, Lourdes",
+      "Rating": 4.3
+    }
+  ],
+  "locais": [
+    {
+      "nome": "Academia Pratique Fitness Sagrada Família",
+      "latitude": -19.899632405865486,
+      "longitude": -43.923043050990536
+    },
+    {
+      "nome": "Academia Pratique Fitness Santa Efigênia",
+      "latitude": -19.91998405795455,
+      "longitude": -43.91050727624164
+    },
+    {
+      "nome": "Academia Life",
+      "latitude": -19.90290480093399,
+      "longitude": -43.92389678104397
+    },
+    {
+      "nome": "Academia Forma Física",
+      "latitude": -19.90009442677241,
+      "longitude": -43.917790713490845
+    },
+    {
+      "nome": "StationFit Academia",
+      "latitude": -19.920534400836154,
+      "longitude": -43.94097921534554
+    },
+    {
+      "nome": "D2 Fit",
+      "latitude": -19.924197256673168,
+      "longitude": -43.937158871163604
+    },
+    {
+      "nome": "Água Viva",
+      "latitude": -19.90907486857307,
+      "longitude": -43.92063755767276
+    },
+    {
+      "nome": "Academia Pratique Fitness Floresta",
+      "latitude": -19.91362154366431,
+      "longitude": -43.9254569
+    },
+    {
+      "nome": "ÚNICA GYM",
+      "latitude": -19.926179843263707,
+      "longitude": -43.92475807116361
+    },
+    {
+      "nome": "ProFit Academia",
+      "latitude": -19.919358369556907,
+      "longitude": -43.94161907116362
+    },
+    {
+      "nome": "Podium Academia",
+      "latitude": -19.89691486741033,
+      "longitude": -43.90623254232723
+    },
+    {
+      "nome": "Deck Academia",
+      "latitude": -19.916568843570325,
+      "longitude": -43.91165887116361
+    },
+    {
+      "nome": "Academia RW Fitness",
+      "latitude": -19.922908230104802,
+      "longitude": -43.93983712883637
+    },
+    {
+      "nome": "Academia Omnia",
+      "latitude": -19.926875935127544,
+      "longitude": -43.927796028836376
+    },
+    {
+      "nome": "Academia DTOX Santa Tereza",
+      "latitude": -19.916979017787835,
+      "longitude": -43.9257092
+    },
+    {
+      "nome": "Academia Pratique Fitness Cidade Nova",
+      "latitude": -19.88592715545326,
+      "longitude": -43.92792002883638
+    },
+    {
+      "nome": "Academia Equilíbrio",
+      "latitude": -19.88541654456316,
+      "longitude": -43.92648740000001
+    },
+    {
+      "nome": "Academia Pratique Fitness Nova Floresta",
+      "latitude": -19.889739544425463,
+      "longitude": -43.93499862883638
+    },
+    {
+      "nome": "Academia Smart Fit Horto",
+      "latitude": -19.909083406666547,
+      "longitude": -43.915247900000004
+    },
+    {
+      "nome": "PL Fit Academia",
+      "latitude": -19.914317756358045,
+      "longitude": -43.94874141349084
+    },
+    {
+      "nome": "Academia Fonte de Energia",
+      "latitude": -19.90370565601971,
+      "longitude": -43.902519999999996
+    },
+    {
+      "nome": "Club Fitness Academia",
+      "latitude": -19.888113455522888,
+      "longitude": -43.93063457116361
+    },
+    {
+      "nome": "Academia Body Energy Boa Vista",
+      "latitude": -19.895718144234998,
+      "longitude": -43.90375437116362
+    },
+    {
+      "nome": "Academia Pulsar Saúde",
+      "latitude": -19.92394614333499,
+      "longitude": -43.941077328836386
+    },
+    {
+      "nome": "IronGym Academia",
+      "latitude": -19.923936734034108,
+      "longitude": -43.94106915980424
+    },
+    {
+      "nome": "Academia Pratique Fitness Funcionários",
+      "latitude": -19.929691970546024,
+      "longitude": -43.92272962883639
+    },
+    {
+      "nome": "Academia Pratique Fitness Prado",
+      "latitude": -19.924095603314942,
+      "longitude": -43.95907199997121
+    },
+    {
+      "nome": "Academia Spaco fitness Nova Vista",
+      "latitude": -19.886563533580357,
+      "longitude": -43.902169413490846
+    },
+    {
+      "nome": "Academia DK FIT",
+      "latitude": -19.905936841379223,
+      "longitude": -43.95568111349084
+    },
+    {
+      "nome": "Academia do PIC",
+      "latitude": -19.932847335050234,
+      "longitude": -43.93631494047251
+    },
+    {
+      "nome": "Tribheca",
+      "latitude": -19.90865655617753,
+      "longitude": -43.9325385
+    },
+    {
+      "nome": "Academia Smart Fit Rio de Janeiro",
+      "latitude": -19.930995856890128,
+      "longitude": -43.94173267116361
+    }
+  ]
+}
