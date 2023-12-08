@@ -92,3 +92,14 @@
     display: block; /* Garante o comportamento de bloco da imagem */
     margin: auto; /* Centraliza a imagem horizontalmente */
   }
+
+  @media (max-width: 620px) {
+    .embed-responsive {
+      overflow: hidden;
+    }
+  
+    .embed-responsive iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
