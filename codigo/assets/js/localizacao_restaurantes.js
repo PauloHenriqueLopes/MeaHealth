@@ -3,7 +3,7 @@ function addReviewsToContainer() {
   const reviewsList = document.getElementById('reviews-list');
 
   // Carrega os dados do arquivo JSON
-  fetch('/codigo/assets/js/reviewsdata.json')
+  fetch('../assets/js/reviewsdata.json')
     .then(response => response.json())
     .then(data => {
       data.reviews.forEach((review) => {
