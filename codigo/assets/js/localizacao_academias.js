@@ -165,8 +165,8 @@
     }
 
     fetchReviews().then(data => {
-      const avaliacoes = data.avaliacoes;
-      const locais = data.locais;
+      const avaliacoes = data?.avaliacoes;
+      const locais = data?.locais;
 
       showReviews(avaliacoes);
       addLocationsToMap(locais, avaliacoes);
