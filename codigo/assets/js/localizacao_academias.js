@@ -152,7 +152,7 @@
     
 
     function fetchReviews() {
-      return fetch('./assets/js/ratingdata.json')
+      return fetch('./ratingdata')
         .then(response => {
           if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
