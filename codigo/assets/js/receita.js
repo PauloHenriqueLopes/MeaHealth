@@ -54,7 +54,7 @@ async function mostarModalDeIngredientes(id) {
 }
 
 async function buscarDados() {
-  let response = await fetch("/codigo/assets/js/dados.json");
+  let response = await fetch("../assets/js/dados.json");
   let dados = await response.json();
   return dados;
 }
