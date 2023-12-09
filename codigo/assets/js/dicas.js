@@ -87,5 +87,3 @@ document.getElementById('commentForm').addEventListener('submit', function(event
 
 loadTips();
 loadComments();
-
-localStorage.clear()
