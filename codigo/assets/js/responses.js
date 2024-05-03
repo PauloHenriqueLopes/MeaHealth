@@ -18,37 +18,29 @@ function getBotResponse(input) {
     switch (input) {
         case '1':
             setTimeout(() => {
-                window.open("https://mea-health.vercel.app/pages/receitas_personalizadas.html");
+                window.location.href = "https://mea-health.vercel.app/pages/receitas_personalizadas.html";
             }, 2000); 
             return "Redirecionando para receitas saudáveis...";
         case '2':
             setTimeout(() => {
-                window.open("https://mea-health.vercel.app/pages/localizacao_resturantes.html");
+                window.location.href = "https://mea-health.vercel.app/pages/localizacao_resturantes.html";
             }, 2000); 
             return "Redirecionando para restaurantes saudáveis em BH...";
         case '3':
             setTimeout(() => {
-                window.open("https://mea-health.vercel.app/pages/localizacao_academias.html");
+                window.location.href = "https://mea-health.vercel.app/pages/localizacao_academias.html";
             }, 2000); 
-            return "Redirecionando para academias em BH...";
-
+            return "Redirecionando para academias em BH...";        
         case '4':
             setTimeout(() => {
-                window.open("https://mea-health.vercel.app/pages/dicas.html");
+                window.location.href = "https://mea-health.vercel.app/pages/treinos.html";
             }, 2000); 
-            return "Redirecionando para dicas saudáveis...";        
-            case '5':
-                setTimeout(() => {
-                    window.open("https://mea-health.vercel.app/pages/treinos.html");
-                }, 2000); 
-                return "Redirecionando para Treinos...";
-
-        case '6':
+            return "Redirecionando para Treinos...";
+        case '5':
             closeChat();    
-        return "Saindo...";
-        
+            return "Saindo...";
         default:
-            return "Número inválido! Por favor, insira um número entre 1 e 5. Ou 6 para sair";
+            return "Número inválido! Por favor, insira um número entre 1 e 4. Ou 5 para sair";
     }
 
 }

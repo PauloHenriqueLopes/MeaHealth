@@ -41,9 +41,8 @@ function firstBotMessage() {
             <li>1- Receita saúdavel.</li>
             <li>2- Restaurantes</li>
             <li>3- Academia</li>
-            <li>4- Dicas</li>
-            <li>5- Treinos</li>
-            <li>6- Sair do chat</li>
+            <li>4- Treinos</li>
+            <li>5- Sair do chat</li>
         </ul>
     `;
 
